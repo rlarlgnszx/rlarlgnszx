@@ -20,4 +20,6 @@
 ![rlarlgnszx's github stats](https://github-readme-stats.vercel.app/api?username=rlarlgnszx&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarlgnszx&layout=compact&theme=tokyonight)
 </div>
-
+<hr></hr>
+<div></div>
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rlarlgnszx)](https://solved.ac/kinetic27)
