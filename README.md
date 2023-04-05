@@ -22,4 +22,11 @@
 </div>
 <hr></hr>
 <div></div>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rlarlgnszx)](https://solved.ac/kinetic27)
+
+<div align="center">
+<h1> BOJ </h1>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarlgnszx)](https://solved.ac/rlarlgnszx)
+  
+ </div>
