@@ -32,18 +32,12 @@
   <a href="https://www.instagram.com/kiru_day/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kiruming/"/></a>&nbsp
   <a href="mailto:rlarlgnszx20@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rlarlgnszx20@gmail.com"/></a>
 </p>
-
+<h3>Project</h3>
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarlgnszx&layout=compact&theme=tokyonight)
-</div>
-<hr></hr>
-<div></div>
+Name | Url | Stack | Description | 
+---- | ---- | ---- | ---- |
+삼성2023 AI Challenge(CV) | 다리1 | pytorch ,python, Huggingface, CUDA | 카메라 도메인차이에서 발생하는 문제점을 해결하는 Semantic Segmentation AI알고리즘 개발
+스킨 Detection AI | 의 | opencv, python , yolov8 ,roboflow | 스킨에서 여드름형태분류 및 검출 ,점 검출 AI|
+Fake News Find & Summary(server)  | https://github.com/rlarlgnszx/Fake_news_Chrome_Extension | python, js, AWS, apache http, flask+wsgi , huggingface , kobart | 뉴스를 분석해 가짜뉴스를 찾아내고 뉴스의 요약정보 제공 |
 
-<div align="center">
-<h1> BOJ </h1>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarlgnszx)](https://solved.ac/rlarlgnszx)
-  
- </div>
