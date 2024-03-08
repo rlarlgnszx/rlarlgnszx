@@ -37,7 +37,7 @@
 
 Name | Url | Stack | Description | 
 ---- | ---- | ---- | ---- |
-삼성2023 AI Challenge(CV) | 다리1 | pytorch ,python, Huggingface, CUDA | 카메라 도메인차이에서 발생하는 문제점을 해결하는 Semantic Segmentation AI알고리즘 개발
-스킨 Detection AI | 의 | opencv, python , yolov8 ,roboflow | 스킨에서 여드름형태분류 및 검출 ,점 검출 AI|
-Fake News Find & Summary(server)  | https://github.com/rlarlgnszx/Fake_news_Chrome_Extension | python, js, AWS, apache http, flask+wsgi , huggingface , kobart | 뉴스를 분석해 가짜뉴스를 찾아내고 뉴스의 요약정보 제공 |
+삼성2023 AI Challenge(CV) |  [Challenge](https://github.com/rlarlgnszx/Camera_Segmenation_for_robust_AI) | pytorch ,python, Huggingface, CUDA | 카메라 도메인차이에서 발생하는 문제점을 해결하는 Semantic Segmentation AI알고리즘 개발
+스킨 AI | [Skin AI](https://github.com/rlarlgnszx/skin-treatement-diffusion) | opencv, python , yolov8 ,roboflow , pytorch , Diffusion Inpainting , Meta Mediapipe  | 피부시술후에 얼굴을 생성해주는 AI, 얼굴 주름 검출 AI |
+Fake News Find & Summary(server)  | [Fake news](https://github.com/rlarlgnszx/Fake_news_Chrome_Extension) | python, js, AWS, apache http, flask+wsgi , huggingface , kobart | 뉴스를 분석해 가짜뉴스를 찾아내고 뉴스의 요약정보 제공 |
 
