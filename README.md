@@ -16,12 +16,12 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/mlflow-0194E2?logo=mlflow&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/amazons3-569A31?logo=amazons3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/apacheairflow-017CEE?logo=apacheairflow&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?logo=scikitlearn&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mlflow-0194E2?logo=mlflow&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/amazon S3-569A31?logo=amazons3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/amazon EC2-FF9900?logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/apacheairflow-017CEE?logo=apacheairflow&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/googlecloud-4285F4?logo=googlecloud&logoColor=white"/></a>&nbsp 
-
 </p>
 
 
