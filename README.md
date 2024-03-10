@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Mlflow-0194E2?logo=mlflow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/amazon S3-569A31?logo=amazons3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/amazon EC2-FF9900?logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/apacheairflow-017CEE?logo=apacheairflow&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/googlecloud-4285F4?logo=googlecloud&logoColor=white"/></a>&nbsp 
 </p>
 
