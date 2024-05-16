@@ -1,8 +1,5 @@
 <div align="center">
 <h3> Kihoon Kim </h3>
-<p>Hi There! I'm a Developer.</p>
-<p> My main skills are Python, Data Anlysis , ML</p>
-<p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
   
 #
 <h3>❤️ I love...</h3>
