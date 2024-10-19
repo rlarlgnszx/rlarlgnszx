@@ -87,16 +87,3 @@ Name | Url | Stack | Description |
 Fake News Find & Summary(server)  | [Fake news](https://github.com/rlarlgnszx/Fake_news_Chrome_Extension) | python, js, AWS, apache http, flask+wsgi , huggingface , kobart | 뉴스를 분석해 가짜뉴스를 찾아내고 뉴스의 요약정보 제공 |
 
 
-## What you Know?
-
-Name | Stack | Description | Status | 
---- | --- | --- | --- | 
-[AI전체 Base](https://crystalline-paper-4ea.notion.site/ALL_OF_AI-1f75646898e842d0aa2e9bdabf0e6546?pvs=74) | M | base Understading all AI | DONE |
-[HuggingFace](https://crystalline-paper-4ea.notion.site/Hugging-Face-Models-bb679c04cf3e4993b4a04754a87a7377?pvs=74) | python, pytorch, huggingface | using trending AI from huggingface | DONE | 
-[Computer Vision](https://crystalline-paper-4ea.notion.site/Computer-vision-bd2dcf6c749a4adbbd40cdc0066af207) | cv,python,torch,tensorflow | understanding Computervision with Project | 90% | 
-[MLOps](https://crystalline-paper-4ea.notion.site/MLOps-3e70e978fab54dd7966044dc7f6d2b93) | docker, kubernetes, dvc, mlflow ,seldom, flask, Prometheus, Grafana, github action, jenkins | base MLOps study | DONE | 
-[Spark & Hadoop](https://crystalline-paper-4ea.notion.site/Spark-Hadoop-8e6ec19bc29b44fbad9fa08a8494b5ba) | spark, hadoop, docker, aws | BigData Engineering | Proceeding(10%)|
-[MLOps+](https://crystalline-paper-4ea.notion.site/MLOps2-0e8205d87235406c934e99d906f5b2f3)  | docker, kubernetes, airflow, mlflow, kubeflow, AWS, sagemaker, vertex AI  | MLOps With Real Project | Proceeding(60%) |
-[Machine Learning](https://crystalline-paper-4ea.notion.site/2eef0f32627e4bc5b908adb907461de7) | python ML Algo, statistics | Training through various machine learning algorithms and actual data analysis |Proceeding(50%) |
-
-
